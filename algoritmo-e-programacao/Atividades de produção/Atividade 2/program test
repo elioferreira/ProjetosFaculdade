@@ -1,0 +1,17 @@
+Considere que você é funcionário do cinema de um shopping. Seu gerente pediu que desenvolvesse um programa em C para calcular o valor de ingressos do cinema e fornecer aos usuários. 
+
+O programa deve apresentar ao usuário as opções de filme e o valor total dos ingressos, com custo de R$ 30,50 cada. Não esqueça de que menores de 10 e maiores de 65 pagam meia entrada.
+
+As opções de filme são: 
+
+Se o usuário escolher a opção 1: A Baleia 
+
+Se o usuário escolher a opção 2: Avatar: O caminho da água 
+
+Se o usuário escolher a opção 3: Tár 
+
+Se o usuário escolher a opção 4: Nada de Novo no Front
+
+TAREFA:
+
+Desenvolva um programa em C que apresente as opções de filme listadas acima, solicite que o usuário escolha uma das opções, pergunte a quantidade de ingressos e a idade para cada um dos ingressos. Com base nestas informações deve retornar o nome do filme escolhido e o valor total da compra.
