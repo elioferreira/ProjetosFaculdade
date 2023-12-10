@@ -34,7 +34,8 @@ Compreender os fatos históricos essenciais e teorias relacionadas à Ciência d
 
 ### Segurança Computacional
 
-[ 2022.1 ] Uma definição sobre Redes de Computadores; A evolução da Comunicação de Dados e os principais cenários; Os tipos de redes de comunicação; A taxonomia de Redes de Computadores; Os principais agentes.
+[ 2022.1 ] 
+Uma definição sobre Redes de Computadores; A evolução da Comunicação de Dados e os principais cenários; Os tipos de redes de comunicação; A taxonomia de Redes de Computadores; Os principais agentes.
 
 
 | Conteúdos estudados                                     |
@@ -45,5 +46,41 @@ Compreender os fatos históricos essenciais e teorias relacionadas à Ciência d
 | Infrastrutura de comunicação topologias e meios físicos |
 | Tecnologias de transmissão e a camada de enlace         |
 | Camada de rede: Protocolo e endereçamento               |
+
+---
+
+### Lógica Matemática
+
+[ 2022.1 ] 
+Incentivar a compreender e a utilizar as habilidades lógicas para avaliar e justificar enunciados e teoremas comuns em matemática e em aplicações na ciências da computação.
+
+
+| Conteúdos estudados                       |
+| ------------------------------------------|
+| Introdução à logica                       |
+| Logicas analiticas, críticas e preposições|
+| Relações envolvendo preposições           |
+| Argumentação                              |
+
+---
+
+### Sistemas Operacionais
+
+[ 2022.2 ] 
+Conceitos de sistemas operacionais, bem como identificará o gerenciamento desenvolvido pelo Kernel (Núcleo) dos sistemas operacionais para que os computadores consigam executar os programas.
+
+
+| Conteúdos estudados                                     |
+| --------------------------------------------------------|
+|Introdução aos sistemas operacionais e contexto histórico|
+|Gerenciamento de projetos                                |
+|Gerencimanento de memória, arquivos e entrada e saída    |
+|Estudos de caso                                          |
+
+---
+
+
+
+
 
 
