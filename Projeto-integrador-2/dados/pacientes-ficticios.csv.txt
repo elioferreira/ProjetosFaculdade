@@ -1,0 +1,5 @@
+nome,idade,alergias,doencas_cronicas,medicamentos,ultimo_exame,data_exame
+João da Silva,45,Penicilina,Diabetes tipo 2; Hipertensão,Metformina 850mg; Losartana 50mg,Hemoglobina glicada 7.2%,2025-12-10
+Maria Santos,62,Não informado,Hipertensão; Dislipidemia,Anlodipino 5mg; Sinvastatina 20mg,Colesterol total 210mg/dL,2026-01-15
+Pedro Oliveira,33,Dipirona,Asma,Salbutamol spray,Espirometria normal,2025-11-20
+Ana Costa,28,Não informado,Nenhuma,Nenhum,Hemograma normal,2026-02-05

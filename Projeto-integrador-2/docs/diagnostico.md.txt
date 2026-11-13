@@ -1,0 +1,12 @@
+# Diagnóstico do Projeto
+
+## Registro da estrutura física
+Como o projeto será desenvolvido de forma simulada no ambiente acadêmico da Unilasalle, a estrutura física considerada é baseada em uma instituição de saúde de pequeno ou médio porte. Composta por recepção, sala de espera, 2 a 4 consultórios, administração e área de arquivo. Infraestrutura de TI com computadores, internet e sistema de gestão.
+
+## Registro da estrutura administrativa
+Gestão por um responsável administrativo, com equipe de saúde e colaboradores. O fluxo inclui agendamento, recepção, registro em prontuário, faturamento e arquivamento. Identifica-se ausência de integração com sistemas públicos (e-SUS).
+
+## Pontos positivos, negativos e fragilidades
+**Positivos:** Ambiente acadêmico estruturado e possibilidade de simular cenários reais.
+**Negativos:** Ausência de parceiro real e limitação de dados simulados.
+**Fragilidades:** Fragmentação de dados, falta de padronização e risco de erros clínicos por falta de histórico unificado.

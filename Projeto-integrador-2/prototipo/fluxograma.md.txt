@@ -1,0 +1,21 @@
+# Protótipo e Fluxogramas
+
+## Tela 1 – Login do Paciente
+- Título: Saúde Conectada
+- Campo: CPF
+- Campo: Senha
+- Botão: Entrar
+- Link: Autorizar compartilhamento
+
+## Tela 2 – Resumo do Paciente (visão do médico)
+- Nome: João da Silva
+- Idade: 45 anos
+- Alergias: Penicilina
+- Doenças crônicas: Diabetes tipo 2, Hipertensão
+- Medicamentos: Metformina 850mg, Losartana 50mg
+- Últimos exames: Hemoglobina glicada (12/2025) – 7,2%
+
+## Tela 3 – QR Code de Autorização
+- QR Code grande
+- Texto: Escaneie para autorizar o compartilhamento seguro
+- Validade: 5 minutos
