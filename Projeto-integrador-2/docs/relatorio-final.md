@@ -43,8 +43,6 @@ Portal simulado com autorização via QR Code.
 ### 6.1 Protótipo (telas)
 Tela de login, resumo do paciente e QR Code de autorização.
 
-### 6.1 Protótipo (telas)
-
 Abaixo estão as telas do sistema simulado, demonstrando o fluxo de compartilhamento seguro de dados:
 
 **Tela 1 – Login do Profissional:**
