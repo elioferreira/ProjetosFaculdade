@@ -43,6 +43,19 @@ Portal simulado com autorização via QR Code.
 ### 6.1 Protótipo (telas)
 Tela de login, resumo do paciente e QR Code de autorização.
 
+### 6.1 Protótipo (telas)
+
+Abaixo estão as telas do sistema simulado, demonstrando o fluxo de compartilhamento seguro de dados:
+
+**Tela 1 – Login do Profissional:**
+![Tela de Login](../prototipo/tela1-login.png)
+
+**Tela 2 – Resumo Clínico do Paciente:**
+![Tela de Resumo](../prototipo/tela2-resumo.png)
+
+**Tela 3 – Autorização via QR Code (LGPD):**
+![Tela de Autorização](../prototipo/tela3-qrcode.png)
+
 ### 6.2 Métricas de sucesso
 Redução do tempo de acesso e diminuição de erros clínicos.
 
